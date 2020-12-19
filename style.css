@@ -1,0 +1,20 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display:flex ;
+     flex-wrap:wrap;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: cursive;
+}
+
